@@ -22,7 +22,7 @@ React Native Web
 ## 스크린샷
 
 <img src="https://user-images.githubusercontent.com/80146176/147840594-9648235d-c08d-473f-a208-dc678e711ed5.png" width="auto" />
-<img src="(https://user-images.githubusercontent.com/80146176/147840600-893e3393-64b4-4598-bc80-85b0161ba280.png" width="800" />
+<img src="https://user-images.githubusercontent.com/80146176/147840600-893e3393-64b4-4598-bc80-85b0161ba280.png" width="800" />
 
 ## 배포 사이트
 
